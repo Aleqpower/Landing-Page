@@ -1,0 +1,65 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(55, 55, 227);
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: rgb(55, 55, 227);
+    color: white;
+}
+
+#cabecalho .nav .nav-link {
+    color: white;
+}
+
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio, .nav-link.active:hover {
+    color: #fff
+}
+
+.navbar-toggler {
+    background-color: rgb(55, 55, 227);
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+.text-colored {
+    color: rgb(55, 55, 227)
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: rgb(55, 55, 227);
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: rgb(55, 55, 227);
+}
+
+.text-colored {
+    color: rgb(55, 55, 227);
+}
+
+.social-links li {
+        list-style: none;
+        display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+#fale-conosco button {
+    color: white;
+    background-color: red;
+}
+
+
